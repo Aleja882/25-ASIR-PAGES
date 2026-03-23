@@ -1,2 +1,3 @@
 # 25-asir-prueba
-Deno en clase para usode Pages
+Demo en clase para usode Pages
+Ahora si funciona cambiar cosas desde local
