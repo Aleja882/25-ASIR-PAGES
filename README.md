@@ -1,4 +1,4 @@
-# 25-ASIR-PAGES
+# 25-asir-pruebas
 Demo en clase para usode Pages
 Ahora si funciona cambiar cosas desde local
 
